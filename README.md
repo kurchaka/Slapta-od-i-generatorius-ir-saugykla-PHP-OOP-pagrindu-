@@ -1,1 +1,1 @@
-# Slapta-od-i-generatorius-ir-saugykla-PHP-OOP-pagrindu-
+# Slaptazodziu generatorius ir saugykla (PHP-OOP pagrindu)
